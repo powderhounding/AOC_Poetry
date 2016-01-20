@@ -1,5 +1,5 @@
 # Trees Are Like Fences
-##byAnders Carlson
+##by Anders Carlson
 what can you do if you can't see the top,<br>
 leafy hands waving, twigs and the lot,
 
