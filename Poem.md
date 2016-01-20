@@ -27,4 +27,4 @@ unless you're quite tall, I'm guessing knot.
 all important it's not, the top green and leafy,<br>
 what matters the most, are the roots deep and beefy.
 
-**Copyright 2012** _Anders Carlson_
+**Copyright 2012** - _Anders Carlson_
