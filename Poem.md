@@ -1,8 +1,8 @@
 # Trees Are Like Fences
-What can you do if you can't see the top, 
-leafy hands waving, twigs and the lot;`
+```What can you do if you can't see the top, 
+leafy hands waving, twigs and the lot;```
 
-`The sky hangs blue, blue like the water,
+`The sky hangs blue, blue like water,
 the sun shining down, the air getting hotter;`
 
 `leaves turning brown, not green any more,
@@ -23,7 +23,7 @@ the leaves turn from brown, straight into green,`
 `how high does it stand, can you see the tree top,
 unless you're quite tall, I'm guessing knot.`
 
-`all important it's not, the top green and leafy, 
-what matters the most, are the roots deep and beefy.`
+```all important it's not, the top green and leafy, 
+what matters the most, are the roots deep and beefy.```
 
-**CR** _Anders Carlson_- 2012-12-25 -
+**Copyright 2012** _Anders Carlson_
