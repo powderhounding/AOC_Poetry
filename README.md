@@ -1,2 +1,2 @@
-# Poetry_by_me
+# Poetry by me.
 
